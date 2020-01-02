@@ -1,7 +1,7 @@
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
 
 <!--
-HealthClinic :: a Spring Framework demonstration
+PetClinic :: a Spring Framework demonstration
 -->
 
 <head>
