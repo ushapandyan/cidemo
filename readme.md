@@ -1,5 +1,5 @@
 Demo to LTTS DevOps SPS APE Team Part1 CHECK!!
-# Spring PetClinics Sample Application Demo  [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
+# Spring PetClinics Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 ## Understanding the Spring Petclinic application with a few diagrams.
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 Hello
